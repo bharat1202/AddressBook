@@ -1,5 +1,6 @@
 package com.example.AddressBookApp.DTO;
 import lombok.*;
+
 @Getter
 @Setter
 @NoArgsConstructor
@@ -9,3 +10,4 @@ public class AddressBookDTO {
     private String name;
     private String phone;
 }
+
